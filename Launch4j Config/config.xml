@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\maduh\OneDrive\Documents\NetBeansProjects\SimpleIdea\dist\SimpleIdea.jar</jar>
+  <outfile>C:\Users\maduh\OneDrive\Documents\NetBeansProjects\SimpleIdea\dist\SimpleIdea.exe</outfile>
+  <errTitle>Please Install JDK</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\maduh\Downloads\Simple\icon.ico</icon>
+  <singleInstance>
+    <mutexName>SimpleIdea</mutexName>
+    <windowTitle>Simple Idea</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Simple Idea Invoicing Software</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>SimpleIdea</productName>
+    <companyName>SandaruGunathilake</companyName>
+    <internalName>SimpleIdea</internalName>
+    <originalFilename>SimpleIdea.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
