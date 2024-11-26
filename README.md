@@ -124,3 +124,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For inquiries or issues, please reach out to maduhansadilshan@gmail.com
 
+---
+
+## Author
+
+**Sandaru Gunathilake**
